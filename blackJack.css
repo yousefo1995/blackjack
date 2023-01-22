@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    margin-top: 30px;
+    background-image: url('table.png');
+    background-size: cover;
+    font-size: 15pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    font-weight: bold;
+    color: antiquewhite;
+}
+
+h1{
+    color: goldenrod;
+}
+button{
+    background-color: goldenrod;
+    width: 200px;
+    height: 35px;
+    padding: 5px 0;
+    font-size: 15pt;
+    font-weight: 600;
+}
+#game-st, #player-inf{
+    font-style: italic;
+}
+
